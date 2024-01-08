@@ -1,0 +1,19 @@
+/* #whiskermenu-button,#showdesktop-button ,#xfce-panel-toggle-button,#xfce4-xapp-status-plugin-button ,#indicator-button ,#pulseaudio-button, #xfce4-power-manager-plugin {border-radius: 8px; margin: 2px; color: shade(#ffffff, 1); background-image: linear-gradient(to bottom, shade(#686868, 0.65), shade(#686868, 0.6), shade(#686868, 0.5), shade(#686868, 0.45)); border: none;}
+#whiskermenu-button:hover, #showdesktop-button:hover,#xfce4-xapp-status-plugin-button:hover ,#indicator-button:hover ,#pulseaudio-button:hover, #xfce4-power-manager-plugin:hover {background-image: linear-gradient(to bottom, shade(#145ba6, 0.85), shade(#145ba6, 0.8), shade(#145ba6, 0.7), shade(#145ba6, 0.65)); color: shade(#fcfcfc, 1); box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), inset 0 -1px rgba(0, 0, 0, 0.2); }
+
+#xfce4-notification-plugin {border-radius: 8px; margin: 2px; color: shade(#fcfcfc, 0.8); background-image: linear-gradient(to bottom, shade(#686868, 0.65), shade(#686868, 0.6), shade(#686868, 0.5), shade(#686868, 0.45)); border: none;}
+#xfce4-notification-plugin:hover{background-image: linear-gradient(to bottom, shade(#145ba6, 0.85), shade(#145ba6, 0.8), shade(#145ba6, 0.7), shade(#145ba6, 0.65)); color: shade(#fcfcfc, 1); box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), inset 0 -1px rgba(0, 0, 0, 0.2); }
+
+#XfcePanelWindow{ border-radius: 8px;}
+
+
+#sn-button{border-radius: 8px; margin: 2px; color: shade(#fcfcfc, 0.9); background-image: linear-gradient(to bottom, shade(#686868, 0.65), shade(#686868, 0.6), shade(#686868, 0.5), shade(#686868, 0.45)); border: none;}
+#sn-button:hover{background-image: linear-gradient(to bottom, shade(#145ba6, 0.85), shade(#145ba6, 0.8), shade(#145ba6, 0.7), shade(#145ba6, 0.65)); color: shade(#fcfcfc, 1); box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), inset 0 -1px rgba(0, 0, 0, 0.2); }
+
+
+#clock-button{padding:4px 3px; border-radius: 8px; margin: 2px; color: shade(#fcfcfc); border: 1px solid grey;}
+#clock-button:hover{background-image: linear-gradient(to bottom, shade(#145ba6, 0.85), shade(#145ba6, 0.8), shade(#145ba6, 0.7), shade(#145ba6, 0.65)); color: shade(#fcfcfc, 1); box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), inset 0 -1px rgba(0, 0, 0, 0.2); }
+
+.xfce4-panel .tasklist .toggle { border-radius: 8px; margin: 2px; background-image: linear-gradient(to bottom, shade(#686868, 0.5), shade(#686868, 0.4), shade(#686868, 0.3), shade(#686868, 0.2));}
+.xfce4-panel .tasklist .toggle:hover { margin: 2px; background-image: linear-gradient(to bottom, shade(#145ba6, 0.85), shade(#145ba6, 0.8), shade(#145ba6, 0.7), shade(#145ba6, 0.65));}
+.xfce4-panel .tasklist .toggle:checked{  background-image: linear-gradient(to bottom, shade(#1e8afd, 0), shade(#1e77d6, 0)); border: 1px solid rgb(145, 145, 145);}  */
